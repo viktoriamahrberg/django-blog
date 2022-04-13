@@ -30,6 +30,8 @@ DEBUG = False
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
+ACCOUNT_EMAIL_VERIFICATION = 'none'
+
 ALLOWED_HOSTS = ['codestar-vm.herokuapp.com', 'localhost']
 
 # Application definition
